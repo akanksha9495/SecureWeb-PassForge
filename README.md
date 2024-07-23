@@ -8,7 +8,7 @@ A simple and interactive password generator built with HTML, CSS, and JavaScript
 - **Clipboard Copy:** One-click functionality to copy the generated password to the clipboard.
 
 ## Purpose
-This project was created to showcase my ability to develop user-friendly web applications using core web technologies. It highlights my skills in implementing interactive UI elements, handling user input, and applying basic security principles.
+This project I have created to showcase my ability to develop user-friendly web applications using core web technologies. It highlights my skills in implementing interactive UI elements, handling user input, and applying basic security principles.
 
 ## How to Use
 1. **Open the project** in a web browser.
